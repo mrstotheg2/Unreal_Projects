@@ -956,3 +956,1153 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-13.38.40:302][325]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.11-13.38.40:302][325]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.02.11-13.38.40:302][325]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-13.40.10:786][111]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-13.43.01:374][768]Cmd: POLY SELECT ADJACENT ALL
+[2022.02.11-13.46.54:453][329]Cmd: POLY SELECT ADJACENT ALL
+[2022.02.11-13.46.58:013][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-13.47.11:678][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.11-13.47.11:690][352]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default9B539EF54CFA5BA21AA2A6857DD98B9E.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-13.47.11:722][352]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltData23FDCC814C3CD032EFA74A8DF6FABAB0.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-13.47.11:733][352]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-13.47.11:733][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-13.47.11:733][352]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-13.48.14:790][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2022.02.11-13.51.35:180][112]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.11-13.57.26:012][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.11-13.57.26:024][145]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_Auto5FE8C419A4EF9555C8DF43288520EE7BF.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2022.02.11-13.57.26:027][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.030
+[2022.02.11-13.57.26:027][145]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2022.02.11-13.59.12:038][504]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.02.11-13.59.14:639][659]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2022.02.11-13.59.33:004][759]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.02.11-13.59.49:090][723]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.11-13.59.53:472][985]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.02.11-14.00.07:061][799]Cmd: DELETE
+[2022.02.11-14.00.07:061][799]Cmd: ACTOR DELETE
+[2022.02.11-14.00.07:062][799]LogEditorActor: Actor Light Source is referenced by BP_Sky_Sphere.
+[2022.02.11-14.00.14:275][799]LogSlate: Window 'Message' being destroyed
+[2022.02.11-14.00.14:280][799]Message dialog closed, result: No, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Sky_Sphere
+[2022.02.11-14.00.14:285][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.11-14.00.14:287][799]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.02.11-14.00.46:167][698]Cmd: POLY SELECT ADJACENT ALL
+[2022.02.11-14.01.27:067][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2022.02.11-14.02.55:511][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.11-14.02.55:523][440]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default3AA611AA47D97513F2212CB1AF442B60.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-14.02.55:558][440]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltDataEE13C81E4EBC96D6069D74AD15ADAE17.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-14.02.55:569][440]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.02.55:569][440]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-14.02.55:570][440]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-14.04.25:530][824]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-14.04.25:785][837]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.04.28:644][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.04.31:094][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.04.31:094][155]Can't find target actor or component.
+[2022.02.11-14.04.32:578][244]Cmd: SELECT NONE
+[2022.02.11-14.04.39:123][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.08.24:590][123]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-14.09.48:628][150]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-14.10.13:998][669]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-14.12.02:881][ 98]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-14.12.40:046][325]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.11-14.13.48:605][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.11-14.13.59:003][ 48]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.11-14.14.00:886][160]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.02.11-14.18.35:944][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.11-14.18.35:966][618]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_DefaultCEC7B80A42DB253EF99E059E8C31890C.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-14.18.36:002][618]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltDataAC25CF634F538587EC940E9558F6AEA0.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-14.18.36:014][618]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.18.36:014][618]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-14.18.36:014][618]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-14.18.54:896][750]MapCheck: New page: Map Check
+[2022.02.11-14.18.54:917][750]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.11-14.18.54:917][750]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.11-14.18.54:923][750]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.02.11-14.18.54:943][750]LogEditorServer: Cleared 6 NULL BSP materials after rebuild.
+[2022.02.11-14.18.54:948][750]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.11-14.18.54:948][750]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.11-14.18.54:948][750]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.11-14.18.54:972][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.02.11-14.18.54:999][750]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2022.02.11-14.18.55:000][750]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.02.11-14.18.55:005][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.02.11-14.18.55:010][750]LightingResults: New page: Lighting Build - Feb 12, 2022, 8:18:55 AM
+[2022.02.11-14.18.55:105][750]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.11-14.18.55:173][750]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.11-14.18.55:212][750]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.11-14.18.55:740][750]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.11-14.18.55:740][750]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5908
+[2022.02.11-14.19.03:081][750]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.11-14.19.03:081][750]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.11-14.19.03:081][750]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.11-14.19.03:081][750]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.11-14.19.03:081][750]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.11-14.19.03:081][750]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.11-14.19.03:223][750]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.11-14.19.03:223][750]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:19:03 AM
+[2022.02.11-14.19.03:223][750]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.02.11-14.19.03:224][750]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.679ms to complete.
+[2022.02.11-14.19.03:226][750]LogEditorBuildUtils: Build time 0:08
+[2022.02.11-14.19.03:363][750]LogSlate: Took 0.008590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.11-14.19.03:375][751]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 7F4985F952729E792663288613BBFF645D3EA66D), compiling. 
+[2022.02.11-14.19.03:383][751]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.02.11-14.19.03:384][751]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 087EFAA937204A70E2101665D7FF1D048728278E), compiling. 
+[2022.02.11-14.19.03:387][751]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.02.11-14.19.03:426][751]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.02.11-14.19.03:426][751]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.11-14.19.03:426][751]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-14.19.04:398][752]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.11-14.19.04:398][752]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.02.11-14.19.04:398][752]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.02.11-14.19.04:398][752]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.11-14.19.04:398][752]LogShaderCompilers: Display: ================================================
+[2022.02.11-14.19.04:707][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.02.11-14.19.08:523][923]Job is a success!
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.028s
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:          1: 3.1% covering 12.5% of volume
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:          2: 96.5% covering 6.1% of volume
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.11-14.19.08:667][924]LogVolumetricLightmapImport:          Minimal_Default 			 260 bricks 	 100.0% (Persistent Level)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.02.11-14.19.09:020][924]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.19.09:020][924]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-14.19.09:020][924]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2022.02.11-14.19.09:020][924]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 512X1024)
+[2022.02.11-14.19.09:041][924]Lightmass on 수용-비보북프로: 3.65 sec total, 133 ms importing, 5 ms setup, 587 ms photons, 2.71 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 19.0 sec total, 5.71 sec processing.
+[2022.02.11-14.19.09:043][924]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 42 meshes in 3 LightmapResourceClusters (14.0 Meshes per cluster).
+[2022.02.11-14.19.09:057][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.11-14.19.09:096][924]LogStaticLightingSystem: Illumination: 14.0 sec (142 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2022.02.11-14.19.09:096][924]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2022.02.11-14.19.09:096][924]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2022.02.11-14.19.10:086][924]DumpUnbuiltLightIteractions
+[2022.02.11-14.19.10:086][924]Lights with unbuilt interactions: 0
+[2022.02.11-14.19.10:086][924]
+[2022.02.11-14.19.10:086][924]Primitives with unbuilt interactions: 0
+[2022.02.11-14.19.10:157][924]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.11-14.19.10:169][924]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.11-14.19.10:211][925]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.11-14.19.10:211][925]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:19:10 AM
+[2022.02.11-14.19.10:211][925]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.394ms to complete.
+[2022.02.11-14.19.12:606][ 63]LogSlate: Window 'Message Log' being destroyed
+[2022.02.11-14.19.12:611][ 63]LogSlate: Window 'Message Log' being destroyed
+[2022.02.11-14.19.36:866][511]MapCheck: New page: Map Check
+[2022.02.11-14.19.36:875][511]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.11-14.19.36:876][511]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.11-14.19.36:882][511]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.02.11-14.19.36:899][511]LightingResults: New page: Lighting Build - Feb 12, 2022, 8:19:36 AM
+[2022.02.11-14.19.36:903][511]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.11-14.19.36:906][511]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.11-14.19.36:906][511]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.11-14.19.36:907][511]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.11-14.19.36:907][511]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5908
+[2022.02.11-14.19.41:525][511]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.11-14.19.41:525][511]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.11-14.19.41:525][511]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.11-14.19.41:525][511]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.11-14.19.41:525][511]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.11-14.19.41:525][511]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.11-14.19.41:614][511]LogEditorBuildUtils: Build time 0:04
+[2022.02.11-14.19.41:675][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.02.11-14.19.44:406][649]Job is a success!
+[2022.02.11-14.19.44:523][649]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:          1: 3.1% covering 12.5% of volume
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:          2: 96.5% covering 6.1% of volume
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.11-14.19.44:524][649]LogVolumetricLightmapImport:          Minimal_Default 			 260 bricks 	 100.0% (Persistent Level)
+[2022.02.11-14.19.44:737][649]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.11-14.19.44:737][649]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-14.19.44:737][649]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.02.11-14.19.44:737][649]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2022.02.11-14.19.44:737][649]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.02.11-14.19.44:737][649]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.02.11-14.19.44:737][649]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.19.44:737][649]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.19.44:737][649]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-14.19.44:835][649]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2022.02.11-14.19.44:835][649]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X1024)
+[2022.02.11-14.19.44:836][649]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 42 meshes in 3 LightmapResourceClusters (14.0 Meshes per cluster).
+[2022.02.11-14.19.44:839][649]Lightmass on 수용-비보북프로: 2.82 sec total, 76 ms importing, 3 ms setup, 467 ms photons, 2.26 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 15.8 sec total, 5.12 sec processing.
+[2022.02.11-14.19.44:849][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.11-14.19.44:908][649]LogStaticLightingSystem: Illumination: 7.94 sec (137 ms encoding lightmaps, 69 ms encoding shadowmaps)
+[2022.02.11-14.19.44:908][649]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2022.02.11-14.19.44:908][649]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2022.02.11-14.19.45:526][649]DumpUnbuiltLightIteractions
+[2022.02.11-14.19.45:527][649]Lights with unbuilt interactions: 0
+[2022.02.11-14.19.45:527][649]
+[2022.02.11-14.19.45:527][649]Primitives with unbuilt interactions: 0
+[2022.02.11-14.19.45:586][649]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.11-14.19.45:594][649]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.11-14.19.45:623][650]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.11-14.19.45:624][650]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:19:45 AM
+[2022.02.11-14.19.45:624][650]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.353ms to complete.
+[2022.02.11-14.20.06:840][917]MapCheck: New page: Map Check
+[2022.02.11-14.20.06:852][917]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.11-14.20.06:852][917]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.11-14.20.06:858][917]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.02.11-14.20.06:875][917]LightingResults: New page: Lighting Build - Feb 12, 2022, 8:20:06 AM
+[2022.02.11-14.20.06:879][917]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.11-14.20.06:881][917]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.11-14.20.06:881][917]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.11-14.20.06:882][917]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.11-14.20.06:882][917]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5908
+[2022.02.11-14.20.11:466][917]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.11-14.20.11:467][917]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.11-14.20.11:467][917]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.11-14.20.11:467][917]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.11-14.20.11:467][917]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.11-14.20.11:467][917]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.11-14.20.11:549][917]LogEditorBuildUtils: Build time 0:04
+[2022.02.11-14.20.11:699][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.11-14.20.14:539][ 63]Job is a success!
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:          1: 3.1% covering 12.5% of volume
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:          2: 96.5% covering 6.1% of volume
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.11-14.20.14:664][ 64]LogVolumetricLightmapImport:          Minimal_Default 			 260 bricks 	 100.0% (Persistent Level)
+[2022.02.11-14.20.14:886][ 64]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.11-14.20.14:886][ 64]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-14.20.14:886][ 64]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.20.14:886][ 64]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.02.11-14.20.14:886][ 64]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.02.11-14.20.14:886][ 64]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.02.11-14.20.14:886][ 64]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.02.11-14.20.14:886][ 64]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-14.20.14:886][ 64]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.20.14:985][ 64]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2022.02.11-14.20.14:985][ 64]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X1024)
+[2022.02.11-14.20.14:987][ 64]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 42 meshes in 3 LightmapResourceClusters (14.0 Meshes per cluster).
+[2022.02.11-14.20.15:001][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.02.11-14.20.15:006][ 64]Lightmass on 수용-비보북프로: 2.97 sec total, 82 ms importing, 4 ms setup, 490 ms photons, 2.36 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 16.5 sec total, 5.39 sec processing.
+[2022.02.11-14.20.15:065][ 64]LogStaticLightingSystem: Illumination: 8.12 sec (139 ms encoding lightmaps, 76 ms encoding shadowmaps)
+[2022.02.11-14.20.15:065][ 64]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2022.02.11-14.20.15:065][ 64]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2022.02.11-14.20.15:461][ 64]DumpUnbuiltLightIteractions
+[2022.02.11-14.20.15:461][ 64]Lights with unbuilt interactions: 0
+[2022.02.11-14.20.15:462][ 64]
+[2022.02.11-14.20.15:462][ 64]Primitives with unbuilt interactions: 0
+[2022.02.11-14.20.15:519][ 64]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.11-14.20.15:528][ 64]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.11-14.20.15:562][ 65]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.11-14.20.15:563][ 65]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:20:15 AM
+[2022.02.11-14.20.15:563][ 65]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2022.02.11-14.20.47:425][969]MapCheck: New page: Map Check
+[2022.02.11-14.20.47:437][969]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.11-14.20.47:437][969]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.11-14.20.47:444][969]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.02.11-14.20.47:462][969]LightingResults: New page: Lighting Build - Feb 12, 2022, 8:20:47 AM
+[2022.02.11-14.20.47:467][969]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.11-14.20.47:469][969]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.11-14.20.47:469][969]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.11-14.20.47:470][969]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.11-14.20.47:470][969]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5908
+[2022.02.11-14.20.52:063][969]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.11-14.20.52:063][969]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.11-14.20.52:063][969]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.11-14.20.52:063][969]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.11-14.20.52:063][969]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.11-14.20.52:063][969]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.11-14.20.52:146][969]LogEditorBuildUtils: Build time 0:04
+[2022.02.11-14.20.52:228][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.11-14.20.55:002][112]Job is a success!
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.034s
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:          1: 3.1% covering 12.5% of volume
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:          2: 96.5% covering 6.1% of volume
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.11-14.20.55:163][113]LogVolumetricLightmapImport:          Minimal_Default 			 260 bricks 	 100.0% (Persistent Level)
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.02.11-14.20.55:468][113]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.02.11-14.20.55:468][113]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.02.11-14.20.55:468][113]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2022.02.11-14.20.55:468][113]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 512X1024)
+[2022.02.11-14.20.55:469][113]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 42 meshes in 3 LightmapResourceClusters (14.0 Meshes per cluster).
+[2022.02.11-14.20.55:483][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.11-14.20.55:495][113]Lightmass on 수용-비보북프로: 2.91 sec total, 81 ms importing, 3 ms setup, 495 ms photons, 2.30 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 16.1 sec total, 5.25 sec processing.
+[2022.02.11-14.20.55:541][113]LogStaticLightingSystem: Illumination: 8.03 sec (124 ms encoding lightmaps, 75 ms encoding shadowmaps)
+[2022.02.11-14.20.55:541][113]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2022.02.11-14.20.55:541][113]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2022.02.11-14.20.56:063][113]DumpUnbuiltLightIteractions
+[2022.02.11-14.20.56:063][113]Lights with unbuilt interactions: 0
+[2022.02.11-14.20.56:063][113]
+[2022.02.11-14.20.56:064][113]Primitives with unbuilt interactions: 0
+[2022.02.11-14.20.56:127][113]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.11-14.20.56:135][113]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.11-14.20.56:164][114]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.11-14.20.56:164][114]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:20:56 AM
+[2022.02.11-14.20.56:164][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.358ms to complete.
+[2022.02.11-14.21.11:215][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.21.39:550][712]MapCheck: New page: Map Check
+[2022.02.11-14.21.39:558][712]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.11-14.21.39:558][712]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.11-14.21.39:565][712]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.02.11-14.21.39:580][712]LightingResults: New page: Lighting Build - Feb 12, 2022, 8:21:39 AM
+[2022.02.11-14.21.39:586][712]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.11-14.21.39:588][712]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.11-14.21.39:588][712]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.11-14.21.39:589][712]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.11-14.21.39:589][712]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5908
+[2022.02.11-14.21.44:157][712]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.11-14.21.44:157][712]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.11-14.21.44:157][712]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.11-14.21.44:157][712]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.11-14.21.44:157][712]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.11-14.21.44:157][712]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.11-14.21.44:263][712]LogEditorBuildUtils: Build time 0:04
+[2022.02.11-14.21.44:365][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.11-14.21.47:195][859]Job is a success!
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:          1: 3.1% covering 12.5% of volume
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:          2: 96.5% covering 6.1% of volume
+[2022.02.11-14.21.47:338][860]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.11-14.21.47:339][860]LogVolumetricLightmapImport:          Minimal_Default 			 260 bricks 	 100.0% (Persistent Level)
+[2022.02.11-14.21.47:555][860]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.11-14.21.47:555][860]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-14.21.47:555][860]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.21.47:555][860]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.02.11-14.21.47:555][860]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.02.11-14.21.47:555][860]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.02.11-14.21.47:555][860]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.02.11-14.21.47:555][860]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-14.21.47:555][860]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.21.47:659][860]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2022.02.11-14.21.47:659][860]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 512X1024)
+[2022.02.11-14.21.47:660][860]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 42 meshes in 3 LightmapResourceClusters (14.0 Meshes per cluster).
+[2022.02.11-14.21.47:674][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.11-14.21.47:682][860]Lightmass on 수용-비보북프로: 2.97 sec total, 76 ms importing, 4 ms setup, 493 ms photons, 2.37 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 16.6 sec total, 5.48 sec processing.
+[2022.02.11-14.21.47:727][860]LogStaticLightingSystem: Illumination: 8.08 sec (137 ms encoding lightmaps, 75 ms encoding shadowmaps)
+[2022.02.11-14.21.47:727][860]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2022.02.11-14.21.47:727][860]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2022.02.11-14.21.48:158][860]DumpUnbuiltLightIteractions
+[2022.02.11-14.21.48:158][860]Lights with unbuilt interactions: 0
+[2022.02.11-14.21.48:158][860]
+[2022.02.11-14.21.48:158][860]Primitives with unbuilt interactions: 0
+[2022.02.11-14.21.48:214][860]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.11-14.21.48:221][860]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.11-14.21.48:252][861]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.11-14.21.48:252][861]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:21:48 AM
+[2022.02.11-14.21.48:252][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.358ms to complete.
+[2022.02.11-14.22.21:041][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.22.34:018][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.22.38:676][881]MapCheck: New page: Map Check
+[2022.02.11-14.22.38:686][881]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.11-14.22.38:686][881]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.11-14.22.38:692][881]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.02.11-14.22.38:709][881]LightingResults: New page: Lighting Build - Feb 12, 2022, 8:22:38 AM
+[2022.02.11-14.22.38:713][881]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.11-14.22.38:715][881]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.11-14.22.38:715][881]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.11-14.22.38:717][881]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.11-14.22.38:717][881]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5908
+[2022.02.11-14.22.43:284][881]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.11-14.22.43:284][881]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.11-14.22.43:284][881]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.11-14.22.43:284][881]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.11-14.22.43:284][881]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.11-14.22.43:284][881]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.11-14.22.43:377][881]LogEditorBuildUtils: Build time 0:04
+[2022.02.11-14.22.43:398][881]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.11-14.22.43:398][881]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.02.11-14.22.43:398][881]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.02.11-14.22.43:398][881]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.11-14.22.43:398][881]LogShaderCompilers: Display: ================================================
+[2022.02.11-14.22.43:456][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.11-14.22.46:399][ 31]Job is a success!
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.028s
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:          1: 3.1% covering 12.5% of volume
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:          2: 96.5% covering 6.1% of volume
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.11-14.22.46:553][ 33]LogVolumetricLightmapImport:          Minimal_Default 			 260 bricks 	 100.0% (Persistent Level)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.02.11-14.22.46:867][ 33]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.22.46:867][ 33]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-14.22.46:867][ 33]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2022.02.11-14.22.46:867][ 33]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 512X1024)
+[2022.02.11-14.22.46:869][ 33]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 42 meshes in 3 LightmapResourceClusters (14.0 Meshes per cluster).
+[2022.02.11-14.22.46:883][ 33]Lightmass on 수용-비보북프로: 3.09 sec total, 79 ms importing, 3 ms setup, 512 ms photons, 2.48 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 17.3 sec total, 5.35 sec processing.
+[2022.02.11-14.22.46:883][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.11-14.22.46:936][ 33]LogStaticLightingSystem: Illumination: 8.18 sec (116 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2022.02.11-14.22.46:936][ 33]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2022.02.11-14.22.46:936][ 33]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2022.02.11-14.22.47:289][ 33]DumpUnbuiltLightIteractions
+[2022.02.11-14.22.47:290][ 33]Lights with unbuilt interactions: 0
+[2022.02.11-14.22.47:290][ 33]
+[2022.02.11-14.22.47:290][ 33]Primitives with unbuilt interactions: 0
+[2022.02.11-14.22.47:361][ 33]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.11-14.22.47:369][ 33]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.11-14.22.47:402][ 34]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.11-14.22.47:402][ 34]MapCheck: New page: Minimal_Default - Feb 12, 2022, 8:22:47 AM
+[2022.02.11-14.22.47:402][ 34]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.34ms to complete.
+[2022.02.11-14.23.03:200][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.11-14.23.03:219][976]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default2EDD80424E0994D182B334BC6FC80BAA.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-14.23.03:325][976]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltData922493154656C7A2C6B125A15712CA75.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-14.23.03:334][976]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.23.03:334][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-14.23.03:334][976]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-14.24.39:860][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-14.24.39:868][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-14.24.39:869][ 52]PIE: New page: PIE session: Minimal_Default (Feb 12, 2022, 8:24:39 AM)
+[2022.02.11-14.24.39:870][ 52]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.11-14.24.39:872][ 52]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.11-14.24.39:872][ 52]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.11-14.24.39:881][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009368s)
+[2022.02.11-14.24.39:882][ 52]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.11-14.24.39:883][ 52]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2022.02.11-14.24.39:883][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010542s)
+[2022.02.11-14.24.39:888][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.11-14.24.39:889][ 52]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-14.24.39:889][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-14.24.39:889][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-14.24.39:890][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-14.24.39:890][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-14.24.39:890][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-14.24.39:890][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-14.24.39:894][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-14.24.39:894][ 52]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-14.24.39:917][ 52]LogAudioMixer: Display: Using Audio Device 스피커 (Realtek(R) Audio)
+[2022.02.11-14.24.39:917][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-14.24.39:917][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-14.24.39:917][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-14.24.39:918][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-14.24.39:918][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-14.24.39:918][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-14.24.39:919][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-14.24.39:919][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-14.24.39:919][ 52]LogInit: FAudioDevice initialized.
+[2022.02.11-14.24.39:919][ 52]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.02.11-14.24.40:004][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:006][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:006][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:026][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:026][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:027][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:027][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:027][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:027][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:027][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:027][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:034][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:034][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:034][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:034][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.11-14.24.40:034][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.11-14.24.40:035][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:035][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:035][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:035][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.11-14.24.40:056][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.11-14.24.40:056][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_N.T_UE4Logo_N Referenced by M_UE4Man_ChestLogo
+[2022.02.11-14.24.40:056][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:056][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by M_UE4Man_ChestLogo
+[2022.02.11-14.24.40:056][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:057][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by M_UE4Man_ChestLogo
+[2022.02.11-14.24.40:057][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:057][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by M_UE4Man_ChestLogo
+[2022.02.11-14.24.40:057][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:057][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by MaterialExpressionTextureSample_2
+[2022.02.11-14.24.40:058][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:058][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by M_Male_Body
+[2022.02.11-14.24.40:058][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:058][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by M_Male_Body
+[2022.02.11-14.24.40:058][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:058][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.11-14.24.40:058][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by M_Male_Body
+[2022.02.11-14.24.40:059][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:059][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.11-14.24.40:059][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2022.02.11-14.24.40:059][ 52]LogLinker: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.11-14.24.40:059][ 52]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2022.02.11-14.24.40:097][ 52]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DB1CCD31DE11F5E3DDCFFA6BA478DAC14F8FEFDE), compiling. 
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.11-14.24.40:100][ 52]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.11-14.24.40:101][ 52]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 09E80A7D740AE04F197CC061F53F2FE19246802B), compiling. 
+[2022.02.11-14.24.40:102][ 52]LogMaterial: Warning: [AssetLog] C:\자료\Programming\Unreal_Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to compile Material Instance with Base M_Male_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.11-14.24.40:102][ 52]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.11-14.24.40:102][ 52]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.11-14.24.40:102][ 52]LogMaterial: Display: 	Function ML_Plastic_Shiny_Beige_LOGO: (Node TextureSample) Logo Mask> Missing input texture
+[2022.02.11-14.24.40:102][ 52]LogMaterial: Display: 	Function ML_Plastic_Shiny_Beige_LOGO: (Node MakeMaterialAttributes) Error on property OpacityMask
+[2022.02.11-14.24.40:161][ 52]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.11-14.24.40:163][ 52]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.02.11-23.24.40
+[2022.02.11-14.24.40:164][ 52]LogWorld: Bringing up level for play took: 0.001371
+[2022.02.11-14.24.40:164][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.02.11-14.24.40:170][ 52]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.11-14.24.40:174][ 52]PIE: Server logged in
+[2022.02.11-14.24.40:176][ 52]PIE: Play in editor total start time 0.309 seconds.
+[2022.02.11-14.24.55:479][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.24.55:480][966]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.11-14.24.55:480][966]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.24.55:481][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.24.55:491][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-14.24.55:499][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.24.55:504][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.24.55:504][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.24.55:506][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.24.55:510][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.11-14.24.55:532][967]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.02.11-14.25.12:734][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.11-14.25.12:752][994]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_DefaultAAF48990488DFE7EA4143899621463DD.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-14.25.12:864][994]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltData55D2EECA47FBE9387021BF8A32920EE6.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-14.25.12:874][994]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.25.12:874][994]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-14.25.12:874][994]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-14.25.12:986][  1]LogSlate: Took 0.006022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.11-14.25.14:646][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-14.25.14:652][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-14.25.14:652][ 99]PIE: New page: PIE session: Minimal_Default (Feb 12, 2022, 8:25:14 AM)
+[2022.02.11-14.25.14:653][ 99]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.11-14.25.14:660][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007833s)
+[2022.02.11-14.25.14:661][ 99]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.11-14.25.14:661][ 99]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2022.02.11-14.25.14:661][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008834s)
+[2022.02.11-14.25.14:665][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.11-14.25.14:666][ 99]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-14.25.14:666][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-14.25.14:666][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-14.25.14:667][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-14.25.14:667][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-14.25.14:667][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-14.25.14:667][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-14.25.14:669][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-14.25.14:669][ 99]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-14.25.14:690][ 99]LogAudioMixer: Display: Using Audio Device 스피커 (Realtek(R) Audio)
+[2022.02.11-14.25.14:690][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-14.25.14:690][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-14.25.14:690][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-14.25.14:690][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-14.25.14:691][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-14.25.14:691][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-14.25.14:692][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-14.25.14:692][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-14.25.14:692][ 99]LogInit: FAudioDevice initialized.
+[2022.02.11-14.25.14:692][ 99]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.02.11-14.25.14:703][ 99]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.11-14.25.14:705][ 99]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.02.11-23.25.14
+[2022.02.11-14.25.14:706][ 99]LogWorld: Bringing up level for play took: 0.001133
+[2022.02.11-14.25.14:706][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.02.11-14.25.14:709][ 99]PIE: Server logged in
+[2022.02.11-14.25.14:710][ 99]PIE: Play in editor total start time 0.059 seconds.
+[2022.02.11-14.25.18:129][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.25.18:129][300]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.11-14.25.18:129][300]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.25.18:130][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.25.18:146][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-14.25.18:157][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.25.18:161][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.25.18:161][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.25.18:163][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.25.18:166][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.11-14.25.18:187][301]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.02.11-14.25.38:399][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.11-14.26.04:011][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.11-14.26.04:029][ 39]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default920EBEA542EAE4FA9C95A1801A5D3DCA.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-14.26.04:135][ 39]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltData9DCD161A47447A4803BC168D83AD4F9C.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-14.26.04:145][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.26.04:145][ 39]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-14.26.04:145][ 39]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-14.26.05:486][116]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-14.26.05:491][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-14.26.05:491][116]PIE: New page: PIE session: Minimal_Default (Feb 12, 2022, 8:26:05 AM)
+[2022.02.11-14.26.05:491][116]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.11-14.26.05:500][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007946s)
+[2022.02.11-14.26.05:501][116]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.11-14.26.05:501][116]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2022.02.11-14.26.05:501][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008995s)
+[2022.02.11-14.26.05:505][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.11-14.26.05:506][116]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-14.26.05:506][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-14.26.05:506][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-14.26.05:506][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-14.26.05:506][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-14.26.05:506][116]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-14.26.05:509][116]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-14.26.05:509][116]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-14.26.05:529][116]LogAudioMixer: Display: Using Audio Device 스피커 (Realtek(R) Audio)
+[2022.02.11-14.26.05:529][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-14.26.05:529][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-14.26.05:529][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-14.26.05:530][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-14.26.05:530][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-14.26.05:530][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-14.26.05:532][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-14.26.05:532][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-14.26.05:532][116]LogInit: FAudioDevice initialized.
+[2022.02.11-14.26.05:532][116]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2022.02.11-14.26.05:542][116]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.11-14.26.05:544][116]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.02.11-23.26.05
+[2022.02.11-14.26.05:544][116]LogWorld: Bringing up level for play took: 0.000978
+[2022.02.11-14.26.05:545][116]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.02.11-14.26.05:556][116]PIE: Server logged in
+[2022.02.11-14.26.05:557][116]PIE: Play in editor total start time 0.066 seconds.
+[2022.02.11-14.26.36:997][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.26.36:997][998]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.11-14.26.36:998][998]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.26.36:998][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.26.37:013][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-14.26.37:024][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.26.37:029][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.26.37:029][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.26.37:030][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.26.37:033][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.11-14.26.37:079][  0]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.02.11-14.26.37:889][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.11-14.26.37:905][ 47]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_DefaultA4DDB4114713093D34C19FBCC0B71212.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-14.26.38:016][ 47]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltDataC54BFB66402BFB8028DC9384648224B7.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-14.26.38:027][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.26.38:027][ 47]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-14.26.38:027][ 47]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.11-14.26.38:928][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.02.11-14.26.38:957][101]LogSlate: Window 'Barrel_Hopper - Unreal Editor' being destroyed
+[2022.02.11-14.26.39:072][102]Cmd: QUIT_EDITOR
+[2022.02.11-14.26.39:072][102]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.11-14.26.39:075][102]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.11-14.26.39:952][102]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.11-14.26.39:952][102]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.11-14.26.39:952][102]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.02.11-14.26.39:953][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.26.39:954][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.26.39:985][102]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.11-14.26.39:988][102]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2022.02.11-14.26.39:992][102]LogExit: Preparing to exit.
+[2022.02.11-14.26.40:579][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.11-14.26.40:690][102]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.26.40:704][102]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.11-14.26.40:712][102]LogExit: Editor shut down
+[2022.02.11-14.26.40:712][102]LogExit: Transaction tracking system shut down
+[2022.02.11-14.26.40:879][102]LogExit: Object subsystem successfully closed.
+[2022.02.11-14.26.40:892][102]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.11-14.26.40:892][102]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.02.11-14.26.40:892][102]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.02.11-14.26.40:892][102]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.11-14.26.40:892][102]LogShaderCompilers: Display: ================================================
+[2022.02.11-14.26.40:902][102]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.02.11-14.26.40:923][102]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.02.11-14.26.40:923][102]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.02.11-14.26.40:923][102]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (872)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module PlanarCut (822)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (802)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (800)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (798)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (796)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (794)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (792)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (790)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.02.11-14.26.40:924][102]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.02.11-14.26.40:925][102]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.02.11-14.26.42:774][102]MemoryProfiler: Shutdown
+[2022.02.11-14.26.42:774][102]NetworkingProfiler: Shutdown
+[2022.02.11-14.26.42:774][102]LoadingProfiler: Shutdown
+[2022.02.11-14.26.42:774][102]TimingProfiler: Shutdown
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.02.11-14.26.42:774][102]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.02.11-14.26.42:775][102]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.02.11-14.26.42:808][102]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.02.11-14.26.42:809][102]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.02.11-14.26.42:810][102]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module OpenXREditor (586)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.02.11-14.26.42:923][102]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (544)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (542)
+[2022.02.11-14.26.42:924][102]LogOpenImageDenoise: OIDN shutting down
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (540)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MotoSynth (538)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MediaCompositing (536)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ImgMedia (534)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (532)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MeshConversion (530)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module DynamicMesh (528)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (526)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometricObjects (524)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (522)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (520)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (518)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (516)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (514)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (513)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (510)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (508)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (506)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (504)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ChaosNiagara (500)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (494)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (478)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (466)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (464)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (462)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module CryptoKeys (460)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module CurveEditorTools (458)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (456)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (446)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2022.02.11-14.26.42:924][102]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.02.11-14.26.42:925][102]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.02.11-14.26.43:438][102]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.02.11-14.26.43:539][102]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (386)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module Niagara (384)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module SignalProcessing (383)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module NiagaraEditor (381)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module NiagaraCore (378)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (376)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (374)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (372)
+[2022.02.11-14.26.43:639][102]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2022.02.11-14.26.43:640][102]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.02.11-14.26.43:640][102]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.02.11-14.26.43:642][102]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.02.11-14.26.43:642][102]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.02.11-14.26.43:642][102]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.02.11-14.26.43:642][102]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.02.11-14.26.43:643][102]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.02.11-14.26.43:645][102]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.02.11-14.26.43:645][102]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.02.11-14.26.43:645][102]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.02.11-14.26.43:645][102]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.02.11-14.26.43:645][102]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.02.11-14.26.43:646][102]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.02.11-14.26.43:647][102]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.02.11-14.26.43:648][102]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.02.11-14.26.43:649][102]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.02.11-14.26.43:650][102]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.02.11-14.26.43:654][102]LogHMD: Freeing OpenVRDLLHandle.
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (104)
+[2022.02.11-14.26.43:654][102]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OpenXRHMD (103)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (100)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.02.11-14.26.43:654][102]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.02.11-14.26.43:656][102]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.02.11-14.26.43:656][102]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.02.11-14.26.43:671][102]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.02.11-14.26.43:671][102]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.02.11-14.26.43:671][102]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153CC1A4-433C-DC44-1E94-0889B89DBC5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=73cad4f04dfeab79186db08cc3693c03%7C116ea90751c34e4dbb60f279139674f2%7C06f6f24a-b7b7-4092-937b-dfa2c7aa26dd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.02.11-14.26.43:671][102]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.02.11-14.26.43:682][102]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.02.11-14.26.43:683][102]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.02.11-14.26.43:683][102]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (74)
+[2022.02.11-14.26.43:683][102]LogModuleManager: Shutting down and abandoning module NiagaraShader (72)
+[2022.02.11-14.26.43:683][102]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.02.11-14.26.43:686][102]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.02.11-14.26.43:688][102]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.02.11-14.26.43:689][102]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.02.11-14.26.43:690][102]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.02.11-14.26.43:690][102]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.11-14.26.43:703][102]LogD3D11RHI: Shutdown
+[2022.02.11-14.26.43:703][102]LogD3D11RHI: CleanupD3DDevice
+[2022.02.11-14.26.43:705][102]LogExit: Exiting.
+[2022.02.11-14.26.43:717][102]Log file closed, 02/11/22 23:26:43
