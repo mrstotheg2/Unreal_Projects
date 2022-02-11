@@ -931,3 +931,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-13.20.59:058][281]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_Auto312E1B4F14F02649CE3B25F9AD0EEADAE.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
 [2022.02.11-13.20.59:059][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
 [2022.02.11-13.20.59:059][281]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2022.02.11-13.29.44:600][ 63]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.11-13.32.09:380][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.11-13.32.09:392][685]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_Auto4DB330A154E981179E05F38A859C6AB2D.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2022.02.11-13.32.09:393][685]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.018
+[2022.02.11-13.32.09:393][685]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2022.02.11-13.32.13:986][954]LogSlate: Window 'Select Path' being destroyed
+[2022.02.11-13.32.14:016][954]LogStaticMesh: Building static mesh Box_Brush_StaticMesh...
+[2022.02.11-13.32.14:020][954]LogStaticMesh: Built static mesh [0.00s] /Game/Barrel_Hopper/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2022.02.11-13.32.14:021][954]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2022.02.11-13.32.14:041][954]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2022.02.11-13.32.14:041][954]EditorErrors: New page: Actor Reattachment
+[2022.02.11-13.32.14:047][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.11-13.34.20:043][913]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Box_Brush_StaticMeshC5DAD09F4F32B61236F18DB1570F9E35.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/Barrel_Hopper/Static_Meshes/Box_Brush_StaticMesh.uasset'
+[2022.02.11-13.34.20:095][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.11-13.34.20:109][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.11-13.34.20:113][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.11-13.34.20:138][913]AssetCheck: New page: Asset Save: Box_Brush_StaticMesh
+[2022.02.11-13.34.20:138][913]LogContentValidation: Display: Validating StaticMesh /Game/Barrel_Hopper/Static_Meshes/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2022.02.11-13.35.37:323][532]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.11-13.38.40:247][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.11-13.38.40:258][325]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default32CEF2514C2F4B756CCA089F052D6C7C.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.11-13.38.40:290][325]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltData1141282E48BFC2A9AABD9CA4454DB396.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.11-13.38.40:302][325]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-13.38.40:302][325]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.11-13.38.40:302][325]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
