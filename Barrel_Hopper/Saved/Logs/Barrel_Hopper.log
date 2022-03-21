@@ -1054,3 +1054,125 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.21-11.55.59:391][115]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.21-11.55.59:391][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.03.21-11.55.59:391][115]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.03.21-12.02.15:354][127]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.03.21-12.02.15:366][127]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.03.21-12.02.15:374][127]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.03.21-12.02.32:179][136]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BH_Idle_Run_BS1D
+[2022.03.21-12.02.32:180][136]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.03.21-12.02.36:193][375]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.03.21-12.02.36:224][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.21-12.02.36:664][375]LogRenderer: Reallocating scene render targets to support 856x452 Format 10 NumSamples 1 (Frame:1).
+[2022.03.21-12.02.36:664][375]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.03.21-12.09.49:439][ 49]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Animation/Blendspaces/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2022.03.21-12.11.39:125][ 37]LogSlate: Window 'BH_Idle_Run_BS1D' being destroyed
+[2022.03.21-12.11.39:133][ 37]LogSlate: Window 'BH_Idle_Run_BS1D' being destroyed
+[2022.03.21-12.11.39:135][ 37]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.11.39:135][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.11.39:199][ 37]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.11.39:199][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.11.40:415][106]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.03.21-12.11.40:418][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.21-12.11.40:678][106]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.03.21-12.13.58:183][905]Cmd: TRANSACTION UNDO
+[2022.03.21-12.13.58:183][905]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.03.21-12.13.58:262][905]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.21-12.14.04:400][213]Cmd: TRANSACTION REDO
+[2022.03.21-12.14.04:400][213]LogEditorTransaction: Redo Adding Blend Grid Sample
+[2022.03.21-12.14.04:467][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.21-12.18.14:827][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BH_Idle_Run_BS1D" FILE="../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/BH_Idle_Run_BS1D.uasset" SILENT=true
+[2022.03.21-12.18.14:832][ 93]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/BH_Idle_Run_BS1D1EFF267A4747CC501E8323BC1A86A09F.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/BH_Idle_Run_BS1D.uasset'
+[2022.03.21-12.18.14:859][ 93]AssetCheck: New page: Asset Save: BH_Idle_Run_BS1D
+[2022.03.21-12.18.14:859][ 93]LogContentValidation: Display: Validating BlendSpace1D /Game/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.03.21-12.18.15:264][114]LogSlate: Window 'BH_Idle_Run_BS1D' being destroyed
+[2022.03.21-12.18.15:268][114]LogSlate: Window 'BH_Idle_Run_BS1D' being destroyed
+[2022.03.21-12.18.15:268][114]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.18.15:268][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.18.15:324][114]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.18.15:324][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.18.21:720][491]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.03.21-12.18.21:725][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.21-12.20.17:222][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.21-12.20.17:224][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.069
+[2022.03.21-12.20.17:225][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP] ([2] browsable assets)...
+[2022.03.21-12.20.17:234][165]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP.BH_Character_AnimBP]
+[2022.03.21-12.20.17:234][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP]
+[2022.03.21-12.20.17:252][165]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/BH_Character_AnimBP_Auto14FE966D0480E6043D6058CAD24BF01C8.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP_Auto1.uasset'
+[2022.03.21-12.20.17:254][165]LogFileHelpers: Auto-saving content packages took 0.030
+[2022.03.21-12.20.42:315][633]LogSlate: Took 0.007546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.21-12.21.01:526][676]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.03.21-12.21.01:604][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.21-12.21.02:612][727]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/BH_Character_AnimBPADD735904B10DEB70CB34BAEFDF3F5C8.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP.uasset'
+[2022.03.21-12.21.02:626][727]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.03.21-12.21.02:626][727]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.03.21-12.22.43:880][366]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.03.21-12.22.43:928][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.21-12.22.44:428][389]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/BH_Character_AnimBPE5BB59B6495AE44999D2A6B5682324DF.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP.uasset'
+[2022.03.21-12.22.44:442][389]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.03.21-12.22.44:442][389]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Blue_Prints/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.03.21-12.22.45:639][453]LogSlate: Window 'BH_Character_AnimBP' being destroyed
+[2022.03.21-12.22.45:644][453]LogSlate: Window 'BH_Character_AnimBP' being destroyed
+[2022.03.21-12.22.45:655][453]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.22.45:655][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.22.45:662][453]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.22.45:662][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.22.45:726][453]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.22.45:726][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.22.48:683][621]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.21-12.22.48:688][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-12.22.48:688][621]PIE: New page: PIE session: Minimal_Default (Mar 22, 2022, 6:22:48 AM)
+[2022.03.21-12.22.48:688][621]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.03.21-12.22.48:800][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111489s)
+[2022.03.21-12.22.48:800][621]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.21-12.22.48:801][621]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.03.21-12.22.48:801][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.112527s)
+[2022.03.21-12.22.48:823][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.21-12.22.48:824][621]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-12.22.48:824][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-12.22.48:824][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-12.22.48:824][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-12.22.48:824][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-12.22.48:824][621]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-12.22.48:848][621]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-12.22.48:848][621]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-12.22.48:871][621]LogAudioMixer: Display: Using Audio Device 스피커 (Realtek(R) Audio)
+[2022.03.21-12.22.48:871][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-12.22.48:871][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-12.22.48:871][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-12.22.48:872][621]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-12.22.48:872][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-12.22.48:872][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-12.22.48:873][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-12.22.48:873][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-12.22.48:873][621]LogInit: FAudioDevice initialized.
+[2022.03.21-12.22.48:873][621]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2022.03.21-12.22.48:885][621]LogLoad: Game class is 'BH_GameMode_C'
+[2022.03.21-12.22.48:887][621]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.21-21.22.48
+[2022.03.21-12.22.48:888][621]LogWorld: Bringing up level for play took: 0.001289
+[2022.03.21-12.22.48:888][621]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.21-12.22.48:891][621]PIE: Server logged in
+[2022.03.21-12.22.48:892][621]PIE: Play in editor total start time 0.205 seconds.
+[2022.03.21-12.23.06:669][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-12.23.06:669][684]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.03.21-12.23.06:669][684]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-12.23.06:670][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.23.06:676][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-12.23.06:679][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-12.23.06:694][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-12.23.06:694][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-12.23.06:695][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-12.23.06:697][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-12.23.06:700][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.03.21-12.23.06:742][686]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.21-12.24.17:563][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.21-12.24.17:581][266]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default8A1D610942D1ACCCF2021B8F977183DC.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.03.21-12.24.17:685][266]LogSavePackage: Moving '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Saved/Minimal_Default_BuiltData3855CD534BF8915CA78F85884D0B1FE3.tmp' to '../../../../../../자료/Programming/Unreal_Projects/Barrel_Hopper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.03.21-12.24.17:698][266]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-12.24.17:698][266]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.03.21-12.24.17:698][266]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
